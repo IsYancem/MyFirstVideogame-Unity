@@ -10,16 +10,16 @@ The proposal for this game focuses on providing a gaming experience that challen
 
 ## Screenshots
 
-![Game Start](Images/image1.png)
+![Game Start](Images/imagen1.png)
 *Image 1. Game Start*
 
-![Player State "Running"](Images/image2.png)
+![Player State "Running"](Images/imagen2.png)
 *Image 2. Player State "Running"*
 
-![Player Collision with Obstacle](Images/image3.png)
+![Player Collision with Obstacle](Images/imagen3.png)
 *Image 3. Player Collision with Obstacle*
 
-![Game Over](Images/image4.png)
+![Game Over](Images/imagen4.png)
 *Image 4. Game Over*
 
 ## How to Use the Project
